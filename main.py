@@ -52,6 +52,7 @@ def smile(message: Message):
 	except:
 		bot.reply_to(message, "Я сломался(")
 
+sm = 1
 
 if __name__ == '__main__':
 		bot.infinity_polling(True)
