@@ -12,7 +12,7 @@ bot = telebot.TeleBot(TOKEN)
 useru = {}
 
 
-
+#add coments
 
 
 @bot.message_handler(commands = ['start'])
