@@ -13,6 +13,7 @@ useru = {}
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 mmmmm = 11
 #add coments
 =======
@@ -20,6 +21,8 @@ mmmmm = 11
 =======
 dasd= 12
 ads= 222
+>>>>>>> main
+=======
 >>>>>>> main
 
 @bot.message_handler(commands = ['start'])
