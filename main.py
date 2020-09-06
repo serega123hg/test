@@ -12,9 +12,14 @@ bot = telebot.TeleBot(TOKEN)
 useru = {}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 mmmmm = 11
 #add coments
 =======
+>>>>>>> main
+=======
+dasd= 12
+ads= 222
 >>>>>>> main
 
 @bot.message_handler(commands = ['start'])
