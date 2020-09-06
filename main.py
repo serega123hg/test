@@ -11,6 +11,8 @@ bot = telebot.TeleBot(TOKEN)
 # post_id = "post-173426930_539"
 useru = {}
 
+dasd= 12
+ads= 222
 
 @bot.message_handler(commands = ['start'])
 def hello(message):
