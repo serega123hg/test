@@ -11,8 +11,6 @@ bot = telebot.TeleBot(TOKEN)
 # post_id = "post-173426930_539"
 useru = {}
 
-mmmmm = 11
-#add coments
 
 @bot.message_handler(commands = ['start'])
 def hello(message):
@@ -51,7 +49,6 @@ def smile(message: Message):
 	except:
 		bot.reply_to(message, "Я сломался(")
 
-sm = 1
 
 if __name__ == '__main__':
 		bot.infinity_polling(True)
